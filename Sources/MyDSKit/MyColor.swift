@@ -7,7 +7,7 @@
 
 import UIKit
 
-enum MyColor {
+public enum MyColor {
     case myBlack
     case myRed
     
