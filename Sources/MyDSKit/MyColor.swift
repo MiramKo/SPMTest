@@ -11,7 +11,7 @@ public enum MyColor {
     case myBlack
     case myRed
     
-    var color: UIColor {
+    public var color: UIColor {
         switch self {
         case .myBlack:
             return UIColor.black
